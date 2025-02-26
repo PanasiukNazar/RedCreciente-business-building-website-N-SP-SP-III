@@ -110,25 +110,25 @@
         $('#bar1').barfiller({
             tooltip: true,
             duration: 1000,
-            barColor: '#56A8CBFF',
+            barColor: '#EF6079FF',
             animateOnResize: true,
         });
         $('#bar2').barfiller({
             tooltip: true,
             duration: 1000,
-            barColor: '#56A8CBFF',
+            barColor: '#EF6079FF',
             animateOnResize: true,
         });
         $('#bar3').barfiller({
             tooltip: true,
             duration: 1000,
-            barColor: '#56A8CBFF',
+            barColor: '#EF6079FF',
             animateOnResize: true,
         });
         $('#bar4').barfiller({
             tooltip: true,
             duration: 1000,
-            barColor: '#56A8CBFF',
+            barColor: '#EF6079FF',
             animateOnResize: true,
         });
     }
